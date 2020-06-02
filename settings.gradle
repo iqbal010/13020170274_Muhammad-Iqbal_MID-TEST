@@ -1,0 +1,2 @@
+rootProject.name='TugasMobile2'
+include ':app'
